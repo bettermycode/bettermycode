@@ -1,1 +1,3 @@
 # bettermycode
+
+// TODO: Write README
